@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="demo_1-2-layouttpl">
+        <wb-resource deploy-path="/" source-path="/docroot" tag="defaultRootSource"/>
+        <property name="context-root" value="demo_1-2-layouttpl"/>
+        <property name="java-output-path" value="/demo_1-2-layouttpl/build/classes"/>
+    </wb-module>
+</project-modules>

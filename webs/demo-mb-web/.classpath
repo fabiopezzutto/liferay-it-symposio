@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/.svn/**|.svn/" kind="src" path="docroot/WEB-INF/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/portal/lib/development/activation.jar"/>
+	<classpathentry kind="lib" path="/portal/lib/development/annotations.jar"/>
+	<classpathentry kind="lib" path="/portal/lib/development/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/portal/lib/development/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/portal/lib/portal/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="/portal/lib/portal/log4j.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/portal"/>
+	<classpathentry kind="var" path="LIFERAY_TOMCAT/lib/ext/portal-service.jar"/>
+	<classpathentry kind="var" path="LIFERAY_TOMCAT/lib/ext/portlet.jar"/>
+	<classpathentry kind="var" path="LIFERAY_TOMCAT/webapps/ROOT/WEB-INF/lib/util-bridges.jar"/>
+	<classpathentry kind="var" path="LIFERAY_TOMCAT/webapps/ROOT/WEB-INF/lib/util-java.jar"/>
+	<classpathentry kind="var" path="LIFERAY_TOMCAT/webapps/ROOT/WEB-INF/lib/util-taglib.jar"/>
+	<classpathentry kind="output" path="docroot/WEB-INF/classes"/>
+</classpath>

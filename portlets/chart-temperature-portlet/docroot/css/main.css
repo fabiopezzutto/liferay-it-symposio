@@ -1,0 +1,6 @@
+.chart-temperature-portlet .chart-area {
+	display:block;
+	margin: auto;
+	height: 500px;
+	width: 600px;
+}
